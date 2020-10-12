@@ -9,6 +9,6 @@ public class StartController {
     @GetMapping("/start")
     public String start()
     {
-        return "start nalSsiBot";
+        return "start";
     }
 }
